@@ -5,5 +5,5 @@ Buildwith:
 -CSS
 -JAVASCRIPT
 
-Solution Link:
-You can view the live project here:
+Solution Link: https://github.com/Kannusounshar/Video-Background
+You can view the live project here: https://euphonious-pudding-058fe1.netlify.app
